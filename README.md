@@ -1,2 +1,2 @@
-# Java-Basics1
-I have made some java programs for begineers.
+# Java-Programs-Basic
+Java codes for complete beginners
